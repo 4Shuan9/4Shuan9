@@ -4,6 +4,5 @@ I'm ashuang, a postgraduate student majoring in Control Engineering.
 - 🔭 I’m currently working on: Embedded robot development based on RK3588, ROS2-PX4 UAV simulation & YOLO target detection deployment
 - 🌱 I’m currently learning: ROS2 optimization, embedded memory tuning, monocular camera calibration & real-time CV inference
 - 👯 I’m looking to collaborate on: Open-source UAV offboard control and edge AI vision projects
-- 💬 Ask me about: RK3588 development, ROS2/PX4 debugging, YOLO lightweight deployment on embedded boards
 - 📫 How to reach me: GitHub Private Message
-- ⚡ Fun fact: A die-hard AMD fan, AMD YES!
+- ⚡ Fun fact: AMD YES!
