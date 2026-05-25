@@ -2,7 +2,7 @@
 
 I'm **4shuan9**, a postgraduate student majoring in **Control Engineering**. 
 
-* 🔭 **Current Research & Focus:
+* 🔭 **Current Research & Focus:**
   - **UAV Slung-Load Systems:** Modeling, anti-swing, and control algorithms.
   - **Computer Vision Applications:** Edge AI vision, real-time CV inference, and target tracking (YOLO).
   - **Embedded UAV Development:** Upper-level development integrating **RK3588** and **PX4** via ROS 2 offboard control.
