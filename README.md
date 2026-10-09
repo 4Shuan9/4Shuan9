@@ -9,4 +9,4 @@ I'm **4shuan9**, a postgraduate student majoring in **Control Engineering**.
  
 * 🌱 **Currently Learning:** monocular camera, and high-performance real-time deployment, SLAM, ADRC
 * 👯 **Looking to Collaborate On:** Open-source UAV offboard control, vision-guided autonomous flight, and edge AI projects.
-* ⚡ **Fun Fact:** AMD YES! 💻 | Prof. 福鼎肉片制作与品鉴 🍜
+* 
